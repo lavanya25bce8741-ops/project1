@@ -1,2 +1,3 @@
 # project1
-first repos in git.
+First repos in git.
+Author- Crown
